@@ -3,7 +3,6 @@ package com.exec02topicos.control;
 import com.exec02topicos.model.Usuario;
 import com.exec02topicos.model.UsuarioDAO;
 import java.io.IOException;
-import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.logging.Level;
